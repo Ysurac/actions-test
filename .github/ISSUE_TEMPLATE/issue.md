@@ -1,3 +1,9 @@
+---
+name: ❔Create a question
+about: Ask a question
+labels: ❔Question
+---
+
 <!--- Use this template, else issue may be closed automatically -->
 ## Expected Behavior
 <!--- In English please. -->
