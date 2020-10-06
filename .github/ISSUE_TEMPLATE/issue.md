@@ -1,7 +1,7 @@
 ---
-name: ❔Create a question
-about: Ask a question
-labels: ❔Question
+name: Bug report
+about: Create a report to help us improve OpenMPTCProuter
+labels: bug
 ---
 
 <!--- Use this template, else issue may be closed automatically -->
